@@ -213,7 +213,7 @@
         <div class="phone">+1 <span>585-421-6070</span></div>
         <div class="logo"><a href="#"><img src="images/logo-black.png" alt="#"></a></div>
         <ul id="devices">
-          <li><a href="#"><span class="img" style="background-image: url('images/devices/iphone.png');"></span>iphone</a></li>
+          <li><a href="#modal"><span class="img" style="background-image: url('images/devices/iphone.png');"></span>iphone</a></li>
 		  <li><a href="#"><span class="img" style="background-image: url('images/devices/ipad.png');"></span>ipad</a></li>
 		  <li><a href="#"><span class="img" style="background-image: url('images/devices/macbook.png');"></span>macbook</a></li>
 		  <li><a href="#"><span class="img" style="background-image: url('images/devices/macpro.png');"></span>mac pro</a></li>
